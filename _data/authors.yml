@@ -1,0 +1,10 @@
+# Author details
+#
+# default author is set in config.yml; override in post/page author
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+greg:
+  name: "Greg"
+  siterole: "Founder"
+  email: greg@sasgames.net
+  twitter: "@gkoeser"
