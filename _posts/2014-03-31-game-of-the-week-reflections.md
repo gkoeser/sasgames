@@ -1,13 +1,13 @@
 ---
-id: 14
+#id: 14
 title: Game of the Week reflections
 date: 2014-03-31T21:34:27+00:00
-author: gkoeser
-layout: post
-guid: http://gregkoeser.wordpress.com/?p=14
-permalink: /About
-categories:
-  - Uncategorized
+#author: gkoeser
+layout: page
+#guid: http://gregkoeser.wordpress.com/?p=14
+#permalink: /About
+#categories:
+#  - Uncategorized
 ---
 I&#8217;m enjoying the experience of a Game a Week, and wake up everyday, now, thinking about the current game I&#8217;m designing or the next week&#8217;s game.
 

@@ -1,13 +1,13 @@
 ---
-id: 56
+#id: 56
 title: 'Game Design book review 1 &#8211; The Grasshopper:  Games, Life, and Utopia'
 date: 2014-03-31T22:30:20+00:00
-author: gkoeser
-layout: post
-guid: http://gregkoeser.wordpress.com/2014/03/31/game-design-book-review-1-the-grasshopper-games-life-and-utopia/
-permalink: /About
-categories:
-  - Uncategorized
+#author: gkoeser
+layout: page
+#guid: http://gregkoeser.wordpress.com/2014/03/31/game-design-book-review-1-the-grasshopper-games-life-and-utopia/
+#permalink: /About
+#categories:
+#  - Uncategorized
 tags:
   - Game Design Book Review
 ---

@@ -1,13 +1,13 @@
 ---
-id: 66
-title: Game of the Week 3
+#id: 66
+#title: Game of the Week 3
 date: 2014-04-21T17:55:20+00:00
-author: gkoeser
-layout: post
-guid: http://gregkoeser.wordpress.com/?p=66
-permalink: /About
-categories:
-  - Uncategorized
+#author: gkoeser
+layout: page
+#guid: http://gregkoeser.wordpress.com/?p=66
+#permalink: /About
+#categories:
+#  - Uncategorized
 ---
 So I took a week vacation from Game of the Week (which isn’t a good sign after just 2 weeks), and this week we have chosen to combine the #GameAWeek challenge with the #EasterEggJam challenge and do a Easter-themed game. This week I decided to do a training/debriefing game using the plastic Easter Eggs and Easter candy.
 

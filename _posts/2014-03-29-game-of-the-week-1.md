@@ -1,13 +1,13 @@
 ---
-id: 8
+#id: 8
 title: Game of the Week 1
 date: 2014-03-29T00:34:41+00:00
-author: gkoeser
-layout: post
-guid: http://gregkoeser.wordpress.com/?p=7
-permalink: /About
-categories:
-  - Uncategorized
+#author: gkoeser
+layout: page
+#guid: http://gregkoeser.wordpress.com/?p=7
+#permalink: /About
+#categories:
+#  - Uncategorized
 tags:
   - Game a Week
 ---

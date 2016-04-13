@@ -1,13 +1,8 @@
 ---
-id: 6
 title: The Journey Begins
 date: 2014-03-26T14:55:26+00:00
 author: gkoeser
-layout: post
-guid: http://gregkoeser.wordpress.com/?p=2
-permalink: /About
-categories:
-  - Uncategorized
+layout: page
 ---
 I have had plenty of jobs and plenty of projects, but I&#8217;ve never left on my own terms. The summer internship ended or the ERP project was over and I was waiting for the next to start. I&#8217;ve now given my notice to my current company, GP Strategies, which I&#8217;ve been with since August 1997. I&#8217;m going to try to make a business in doing what I love to do.
 
