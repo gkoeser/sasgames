@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: gamepieces-banner.jpg
 widget1:
   title: "Corporate Training"
   url: '/corporate/'
