@@ -9,6 +9,7 @@ guid: http://sasgames.net/?page_id=141
 Short Attention Span Games uses games, activities, jolts, balloon twisting, magic, improv theater and more to make learning stick. SASGames leads activity-based training with a facilitated debrief.
 
 We create custom games (usually card, board, classroom, or casual computer game) for your event. We have created / facilitated games for:
+
 * Project Kick-offs
 * Corporate training events
 * Project Go-Live events
