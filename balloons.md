@@ -6,12 +6,16 @@ author: gkoeser
 layout: page
 guid: http://sasgames.net/?page_id=104
 ---
+
 Short Attention Span Games is available for your next event. Hire us for:
 
   * Corporate Events
   * Birthday party
   * Wedding reception decoration
   * New Store openings
+
+
+View [balloon galleries](galleries) and [balloon stories](stories).
 
 **Deluxe Balloon Artistry:**  Come to your event ready to twist anything your guests desire. As long as I know what it looks like, I usually can make it out of balloons. I especially enjoy making people that I call Balloonacatures of the participants around.
 
@@ -33,7 +37,7 @@ I&#8217;ve decorated centerpieces, balloon arches, and balloon wedding couples f
 
 <div id="attachment_123" style="width: 310px" class="wp-caption alignnone">
   <a href="http://sasgames.net/wp-content/uploads/2015/02/Lion-head-03112015.jpg"><img class="size-medium wp-image-123" src="http://sasgames.net/wp-content/uploads/2015/02/Lion-head-03112015-300x200.jpg" alt="Lion Head" width="300" height="200" srcset="http://sasgames.net/wp-content/uploads/2015/02/Lion-head-03112015-300x200.jpg 300w, http://sasgames.net/wp-content/uploads/2015/02/Lion-head-03112015-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
-  
+
   <p class="wp-caption-text">
     Lion Head
   </p>
@@ -41,7 +45,7 @@ I&#8217;ve decorated centerpieces, balloon arches, and balloon wedding couples f
 
 <div id="attachment_122" style="width: 298px" class="wp-caption alignnone">
   <a href="http://sasgames.net/wp-content/uploads/2015/02/Chipmunk-03122015.jpg"><img class="size-medium wp-image-122" src="http://sasgames.net/wp-content/uploads/2015/02/Chipmunk-03122015-288x300.jpg" alt="Cartoon Chipmunk" width="288" height="300" srcset="http://sasgames.net/wp-content/uploads/2015/02/Chipmunk-03122015-288x300.jpg 288w, http://sasgames.net/wp-content/uploads/2015/02/Chipmunk-03122015-984x1024.jpg 984w" sizes="(max-width: 288px) 100vw, 288px" /></a>
-  
+
   <p class="wp-caption-text">
     Cartoon Chipmunk
   </p>
@@ -49,7 +53,7 @@ I&#8217;ve decorated centerpieces, balloon arches, and balloon wedding couples f
 
 <div id="attachment_121" style="width: 222px" class="wp-caption alignnone">
   <a href="http://sasgames.net/wp-content/uploads/2015/02/Bunny-03122015.jpg"><img class="size-medium wp-image-121" src="http://sasgames.net/wp-content/uploads/2015/02/Bunny-03122015-212x300.jpg" alt="Bunny" width="212" height="300" /></a>
-  
+
   <p class="wp-caption-text">
     Bunny
   </p>
@@ -57,7 +61,7 @@ I&#8217;ve decorated centerpieces, balloon arches, and balloon wedding couples f
 
 <div id="attachment_116" style="width: 179px" class="wp-caption alignnone">
   <a href="http://sasgames.net/wp-content/uploads/2015/02/Balloon-Clown-headwear.jpg"><img class="size-medium wp-image-116" src="http://sasgames.net/wp-content/uploads/2015/02/Balloon-Clown-headwear-169x300.jpg" alt="Clown headband" width="169" height="300" /></a>
-  
+
   <p class="wp-caption-text">
     Clown headband
   </p>
@@ -65,7 +69,7 @@ I&#8217;ve decorated centerpieces, balloon arches, and balloon wedding couples f
 
 <div id="attachment_115" style="width: 179px" class="wp-caption alignnone">
   <a href="http://sasgames.net/wp-content/uploads/2015/02/Balloon-fish-headwear.jpg"><img class="size-medium wp-image-115" src="http://sasgames.net/wp-content/uploads/2015/02/Balloon-fish-headwear-169x300.jpg" alt="Fish headband" width="169" height="300" /></a>
-  
+
   <p class="wp-caption-text">
     Fish headband
   </p>
