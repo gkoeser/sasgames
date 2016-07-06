@@ -42,7 +42,7 @@ baseurl: '/sasgames'
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: '/images/'
+urlimg: '/sasgames/images/'
 
 
 # Logo size is 600x80 pixels
