@@ -46,7 +46,7 @@ format: frontpage
 {% if page.callforaction %}
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ site.baseurl }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+            <a class="button large radius {{ page.callforaction.style }}" {% if page.callforaction.url contains 'http' %}href="{{ page.callforaction.url }}" target="_blank"{% else %}href="{{ site.baseurl }}{{ page.callforaction.url }}" {% endif %}>{{ page.callforaction.text }}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
