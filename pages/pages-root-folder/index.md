@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Game Designs"
   url: '/designs/'
-  image: widget-github-303x182.jpg
+  image: Abi_Wedding_Card_back.jpg
   text: 'Board and card game designs, both custom ordered and personally developed.'
 #
 # Use the call for action to show a button on the frontpage
