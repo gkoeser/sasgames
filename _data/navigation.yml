@@ -12,8 +12,8 @@
   dropdown:
   - title: "Gallery"
     url: "/balloons/gallery/"
-  - title: "Biblical Balloons"
-    url: "/balloons/bible-stories/"
+  - title: "Balloon Stories"
+    url: "/balloons/stories/"
 
 - title: "Custom Game Designs"
   url: "/designs/"
