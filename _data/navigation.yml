@@ -10,7 +10,7 @@
   url: "/balloons/"
   side: left
   dropdown:
-  - title: "Gallery"
+  - title: "Galleries"
     url: "/balloons/gallery/"
   - title: "Balloon Stories"
     url: "/balloons/stories/"
