@@ -31,6 +31,10 @@ author: greg
 url: 'http://gkoeser.github.io'
 baseurl: '/sasgames'
 
+
+# override for local development
+# url: ''
+
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
 # improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
@@ -41,7 +45,6 @@ baseurl: '/sasgames'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-# urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 urlimg: '/sasgames/images/'
 
 
@@ -116,6 +119,10 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: greg     # Default author for pages
+      header:
+         image_fullwidth: gamepieces-banner.jpg
+
+
   -
     scope:
       path: ''
