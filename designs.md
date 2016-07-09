@@ -6,7 +6,10 @@ author: gkoeser
 layout: page
 guid: http://sasgames.net/?page_id=146
 ---
+
 Greg Koeser has been designing games for 15 years. Keep up with his latest designs on [gregkoeser.wordpress.com](http://gregkoeser.wordpress.com).
+
+For examples of custom card decks and games, see [cards.sasgames.net](http://cards.sasgames.net/)
 
 Nursery Rhyme Games:
 
