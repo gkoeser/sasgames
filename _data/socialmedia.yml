@@ -3,6 +3,11 @@
 #   class: icon-github
 #   title: Code und mehr...
 
+- name: greg@sasgames.net
+  url: mailto:greg@sasgames.net
+  title: greg@sasgames.net
+  class: icon-mail
+
 # - name: YouTube
 #   url: http://www.youtube.com/PhlowMedia
 #   class: icon-youtube

@@ -14,10 +14,10 @@ title: 'Short Attention Span Games'
 slogan: 'Transformative Games for Learning'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
+description: 'Short Attention Span Games provides transformative games for learning, balloons and entertaining, and custom board and card game design.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '© 2016.'
 
 # Main author of the website
 # See > authors.yml
@@ -25,12 +25,12 @@ author: greg
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
+# official site
 # url: 'http://sasgames.net'
 
 # url on github pages:
 url: 'http://gkoeser.github.io'
 baseurl: '/sasgames'
-
 
 # override for local development
 # url: ''
@@ -62,6 +62,7 @@ logo: "logo.png"
 gems:
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-sitemap
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 

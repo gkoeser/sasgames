@@ -13,7 +13,7 @@
 
             <p class="shadow-black">
               {{ site.description }}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
+              <a href="{{ site.url }}{{ site.baseurl }}/credits/">{{ site.data.language.more }}</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -27,7 +27,7 @@
 
               <ul class="no-bullet shadow-black">
               {% for service_item in site.data.services %}
-                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.url + site.baseurl %}{% endif %}
+                {% if service_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{site.url }}{{site.baseurl }}{% endcapture %}{% endif %}
                   <li {% if service_item.class %}class="{{ service_item.class }}" {% endif %}>
                     <a href="{{ domain }}{{ service_item.url }}" {% if service_item.url contains 'http' %}target="_blank" {% endif %} title="{{ service_item.title }}">{{ service_item.name }}</a>
                   </li>
@@ -36,6 +36,7 @@
           </div><!-- /.large-4.columns -->
 
 
+          {% comment %} disable network block for now
           <div class="small-6 medium-3 large-3 columns">
             {% for network_item in site.data.network %}
               {% if forloop.first == true %}
@@ -52,6 +53,7 @@
             {% endfor %}
             </ul>
           </div><!-- /.large-3.columns -->
+          {% endcomment %}
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
@@ -61,6 +63,7 @@
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
             {{ site.credits }}
+            | <a href="{{ site.url }}{{ site.baseurl }}/credits/">Credits</a>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
