@@ -15,7 +15,7 @@ Short Attention Span Games is available for your next event. Hire us for:
   * New Store openings
 
 
-View [balloon galleries](galleries) and [balloon stories](stories).
+View [balloon galleries](gallery/) and [balloon stories](stories/).
 
 **Deluxe Balloon Artistry:**  Come to your event ready to twist anything your guests desire. As long as I know what it looks like, I usually can make it out of balloons. I especially enjoy making people that I call Balloonacatures of the participants around.
 
